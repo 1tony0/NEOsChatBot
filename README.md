@@ -1,4 +1,4 @@
-Claude 3 AI Chatbot Project 
+ Claude 3 AI Chatbot Project 
 
 Overview
 This project is a conversational AI chatbot developed using Claude 3. Created during an Amazon AI/ML workshop, this chatbot leverages Claude's natural language capabilities to respond to various queries with engaging, intelligent responses.
