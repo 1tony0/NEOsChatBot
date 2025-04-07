@@ -14,7 +14,7 @@ Installation: Clone the repository and install dependencies.
 Configuration: Set up API keys and parameters for Claude.
 Run the Application: Launch the chatbot locally and interact through the interface.
 Future Enhancements
-
+ 
 Expanding the chatbot’s domain knowledge.
 Integrating with other platforms for broader accessibility.
 
