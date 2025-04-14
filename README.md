@@ -6,7 +6,7 @@ This project is a conversational AI chatbot developed using Claude 3. Created du
 Features
 Natural Language Understanding: Interprets user questions and provides relevant responses.
 Interactive Interface: Simple and easy-to-use interface for seamless interaction.
-Customizable: Built with Claude 3, adaptable for various use cases.
+Customizable: Built with Claude 3, adaptable for various use cases. 
 Getting Started
 
 Prerequisites: Ensure you have access to Claude 3 via the specified API.
